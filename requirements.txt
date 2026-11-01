@@ -1,0 +1,6 @@
+langgraph>=1.2
+langgraph-checkpoint-sqlite>=3.0
+langchain-openai>=1.0
+langchain-tavily>=0.2
+python-dotenv>=1.0
+langgraph-cli[inmem]>=0.4
